@@ -3,7 +3,7 @@
 用高对比海报、大字、清单和图形关系配合口播，含原生动画与新增组件，竖屏独立编排。
 
 模板与完整下载: https://motiongit.com/@adunext/vibrant-poster-portrait
-版本: 2.7.18-alpha.7
+版本: 2.7.18-alpha.8
 Demo 已公开，下载开放状态以官网为准。
 
 ## 技术资料
