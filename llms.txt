@@ -1,7 +1,7 @@
 # Vibrant Poster · Narrated Explainer · Portrait · MotionGit .motion
 
 Template and full package: https://motiongit.com/@adunext/vibrant-poster-portrait
-Version: 2.7.18-alpha.9
+Version: 2.7.18-alpha.10
 Demo available. Check the official page for current download availability.
 
 Declared runtime profile: adu-authored-unit/1.
